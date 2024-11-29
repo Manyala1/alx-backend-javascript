@@ -4,7 +4,7 @@
   "description": "This is a README for my 0x13-unittests_in_js project!",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --exit"
+    "test": "mocha --exit"
   },
   "author": "",
   "license": "ISC",
